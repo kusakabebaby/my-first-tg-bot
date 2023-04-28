@@ -1,4 +1,4 @@
-token = "6011939065:AAGauws90HFfWDGrFyUTt7PrlKmrTwoGess"
+
 
 from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
